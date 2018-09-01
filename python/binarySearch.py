@@ -30,6 +30,7 @@ def binary_search(list, target):
 		print(str(target), "found at index position", str(indexPos))	
 
 # algorithm complete
+
 def main():
 	target = 5
 	unsortedList = [64,6,10,84,4163,5454,1,2,4,4584,5,42,18]
