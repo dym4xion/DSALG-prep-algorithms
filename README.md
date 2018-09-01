@@ -5,6 +5,6 @@ exploring:
 - quicksort
 - insertion sort
 - selection sort
-- linear search
-=
+- linear search  
+
 algorithms in python and java
