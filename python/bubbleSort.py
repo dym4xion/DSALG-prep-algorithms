@@ -13,5 +13,10 @@ def bubble_sort(list):
 		list = newList
 	return list
 
-sortedList = bubble_sort([984,98,419,84,18,41,868,48,4,98,18,7,0.1,98])
-print(sortedList)
+# algorithm complete
+def main():
+	unsortedList = [984,98,419,84,18,41,868,48,4,98,18,7,0.1,98]
+	sortedList = bubble_sort(unsortedList)
+	print(sortedList)
+
+
