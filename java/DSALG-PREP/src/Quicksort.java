@@ -10,6 +10,6 @@
  */
 public class Quicksort {
     public static void main(String [] arg){
-        System.out.println("please try");
+        System.out.println("QUICKSORT!!!");
     }
 }

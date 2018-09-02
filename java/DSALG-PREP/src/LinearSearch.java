@@ -10,6 +10,6 @@
  */
 public class LinearSearch {
     public static void main(String [] arg){
-        System.out.println("oh");
+        System.out.println("LINEAR SEARCH!!!");
     }
 }

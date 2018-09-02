@@ -10,6 +10,6 @@
  */
 public class SelectionSort {
     public static void main(String [] arg){
-        System.out.println("hey");
+        System.out.println("SELECTION SORT!!!");
     }
 }

@@ -10,6 +10,6 @@
  */
 public class BubbleSort {
     public static void main(String [] arg){
-        System.out.println("let's do this");
+        System.out.println("BUBBLE SORT!!!");
     }
 }

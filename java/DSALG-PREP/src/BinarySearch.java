@@ -10,6 +10,6 @@
  */
 public class BinarySearch {
     public static void main(String [] arg){
-        System.out.println("ok");
+        System.out.println("BINARY SEARCH!!!");
     }
 }

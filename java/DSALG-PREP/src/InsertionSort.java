@@ -10,6 +10,6 @@
  */
 public class InsertionSort {
     public static void main(String [] arg){
-        System.out.println("will you");
+        System.out.println("INSERTION SORT!!!");
     }
 }
