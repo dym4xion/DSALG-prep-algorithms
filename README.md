@@ -1,10 +1,10 @@
 # DSALG-prep-algorithms
 exploring:
-- bubble sort
-- binary search
-- quicksort
-- insertion sort
-- selection sort
-- linear search  
+- bubble sort (p)
+- binary search (p/j)
+- quicksort (p)
+- insertion sort (p)
+- selection sort (p)
+- linear search (p)  
 
-algorithms in python and java
+algorithms implemented in (p)ython and (j)ava
