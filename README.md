@@ -7,4 +7,6 @@ exploring:
 - selection sort (p)
 - linear search (p)  
 
-algorithms implemented in (p)ython and (j)ava
+algorithms implemented in (p)ython and (j)ava  
+
+WIP
