@@ -26,14 +26,30 @@ public class LinearSearch {
         list.add(33);
         System.out.println(list);
         
-        linearSearch(list);
+        int target = 13;
+        linearSearch(list, target);
     }
     
-    public static void linearSearch(ArrayList list)
+    public static void linearSearch(ArrayList list, int target)
     {
         boolean inList = false;
         Integer index = 0;
         
+        for(int i = 0; i < list.size(); i++)
+        {
+            if (list.get(i).equals(target))
+            {
+                inList = true;
+                System.out.println("value found at index position " + index);
+            }else
+            {
+                index += 1;
+            }
+        }
+        if(! inList)
+        {
+            System.out.println("target value not in list");
+        }
         
     }
 }

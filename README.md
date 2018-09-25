@@ -5,7 +5,7 @@ exploring:
 - quicksort (p)
 - insertion sort (p)
 - selection sort (p)
-- linear search (p)  
+- linear search (p/j)  
 
 algorithms implemented in (p)ython and (j)ava  
 
