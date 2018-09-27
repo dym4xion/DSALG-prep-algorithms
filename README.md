@@ -9,4 +9,6 @@ exploring:
 
 algorithms implemented in (p)ython and (j)ava  
 
+**BONUS CHALLENGE:** implement dijkstra's algorithm in python and/or java
+
 WIP
