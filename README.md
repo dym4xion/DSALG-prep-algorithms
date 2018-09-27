@@ -1,6 +1,6 @@
 # DSALG-prep-algorithms
 exploring:
-- bubble sort (p)
+- bubble sort (p/j)
 - binary search (p/j)
 - quicksort (p)
 - insertion sort (p)
@@ -8,5 +8,7 @@ exploring:
 - linear search (p/j)  
 
 algorithms implemented in (p)ython and (j)ava  
+
+**BONUS CHALLENGE:** implement dijkstra's algorithm in python and/or java
 
 WIP

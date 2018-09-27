@@ -9,8 +9,7 @@ def iterateList(list):
 
 def bubble_sort(list):
 	for i in range(len(list) - 1):
-		newList = iterateList(list)
-		list = newList
+		list = iterateList(list)
 	return list
 
 # algorithm complete
