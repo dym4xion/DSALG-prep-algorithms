@@ -6,8 +6,7 @@ exploring:
 - insertion sort (p)
 - selection sort (p)
 - linear search (p/j)
-- 
-**BONUS CHALLENGE:** implement dijkstra's algorithm in python and/or java   
+- **BONUS CHALLENGE:** implement dijkstra's algorithm in python and/or java   
 
 algorithms implemented in (p)ython and (j)ava  
 
