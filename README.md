@@ -3,7 +3,7 @@ exploring:
 - bubble sort (p/j)
 - binary search (p/j)
 - quicksort (p)
-- insertion sort (p)
+- insertion sort (p/j)
 - selection sort (p)
 - linear search (p/j)
 - **BONUS CHALLENGE:** implement dijkstra's algorithm in python and/or java   
