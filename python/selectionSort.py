@@ -1,14 +1,19 @@
 
+def find_smallest(list):
+	smallest = list[0]
+	smallestIndex = 0
+	for i in range(1, len(list)):
+		if list[i] < smallest:
+			smallest = list[i]
+			smallestIndex = i
+	return smallestIndex
+
 def selection_sort(list):
-	orderedList = []
-	for j in range(len(list)):
-		minVal = list[0]
-		for i in list:
-			if i < minVal:
-				minVal = i
-		orderedList.append(minVal)
-		list.remove(minVal)
-	return orderedList
+	sortedList = []
+	for i in range(len(list)):
+		smallest = find_smallest(list)
+		sortedList.append(list.pop(smallest))
+	return sortedList
 
 # algorithm complete
 
