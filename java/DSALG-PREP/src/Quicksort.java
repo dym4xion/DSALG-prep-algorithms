@@ -51,7 +51,13 @@ public class Quicksort {
                    greater.add((int)list.get(i));
                }
             }
-            return quicksort(less) + equal + quicksort(greater);
+            
+            ArrayList sortedLess = quicksort(less);
+            ArrayList sortedGreater = quicksort(greater);
+            
+            sortedLess.addAll(equal);
+            sortedLess.addAll(sortedGreater);
+            return sortedLess;
                     
         }else
         {
@@ -60,3 +66,4 @@ public class Quicksort {
                 
     }
 }
+//completed

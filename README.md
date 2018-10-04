@@ -2,7 +2,7 @@
 exploring:
 - bubble sort (p/j)
 - binary search (p/j)
-- quicksort (p)
+- quicksort (p/j)
 - insertion sort (p/j)
 - selection sort (p)
 - linear search (p/j)
