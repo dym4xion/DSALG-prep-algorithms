@@ -33,21 +33,20 @@ public class SelectionSort {
     {
         ArrayList<Integer> sortedList = new ArrayList<Integer>();
         
-        for(int i = 0; i < list.size(); i++)
+        while(list.size() > 0)
         {
-            int smallest = find_smallest(list);
-            sortedList.add((Integer) list.get(smallest));
-            list.remove(smallest);
+            int smallestValIndex = index_of_smallest(list);
+            sortedList.add((Integer) list.get(smallestValIndex));
+            list.remove(smallestValIndex);
         }
-                
         return sortedList;
     }
     
-    public static int find_smallest(ArrayList subList)
+    public static int index_of_smallest(ArrayList subList)
     {
         int smallest = (int) subList.get(0);
         int smallestIndex = 0;
-        for(int i = 1; i < subList.size(); i++)
+        for(int i = 0; i > subList.size(); i++)
         {
             if((int) subList.get(i) < smallest)
             {
@@ -58,7 +57,6 @@ public class SelectionSort {
         
         return smallestIndex;
     }
-        
-    
 }
 
+//complete
