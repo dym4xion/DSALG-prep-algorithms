@@ -10,6 +10,8 @@ exploring:
 - recursive algorithm to reverse the order of a list (p)
 - recursive algorithm to sum 1 to n numbers (where n is a positive integer) (p)
 - recursive digital sum algorithm (p)
+- recursive algorithm to find greatest common divisor 
+- recursive algorithm to print a range between to integers
 - **BONUS CHALLENGE:** implement dijkstra's algorithm in python and/or java (WIP)   
 
 algorithms implemented in (p)ython and (j)ava  
