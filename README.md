@@ -14,6 +14,7 @@ exploring:
 - recursive digital sum algorithm (p)
 - recursive algorithm to find greatest common divisor (p)
 - recursive algorithm to print a range between two integers (p)
+- recursive binary search (p)    
 
 ## Future Challenges
 - implement dijkstra's algorithm in python and/or java (WIP)   
